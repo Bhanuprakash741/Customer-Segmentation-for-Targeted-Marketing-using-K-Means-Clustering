@@ -56,9 +56,9 @@ Source: open online retail transactions (≈ 500 k rows, 2010-2011).
 
 Visuals (save PNGs in `docs/`):
 
-| PCA plot (k = 4) | Elbow curve | Month-by-month revenue |
+| PCA plot (k = 4) | Elbow curve | Products by Quantity |
 |------------------|-------------|------------------------|
-| ![PCA](docs/pca_clusters.png) | ![Elbow](docs/elbow.png) | ![Monthly](docs/monthly_revenue.png) |
+| ![PCA](docs/pca_clusters.png) | ![Elbow](docs/elbow.png) | ![Monthly](docs/Products.png) |
 
 ---
 
