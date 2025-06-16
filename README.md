@@ -52,9 +52,7 @@ Source: open online retail transactions (≈ 500 k rows, 2010-2011).
 | 2 | 24 % |  ∼ 420 | **Low-value sporadic** |
 | 3 | 15 % | ∼ 2 400 | **High-value loyalists** |
 
-*(Values from final `cluster_summary.csv`.)*
 
-Visuals (save PNGs in `docs/`):
 
 | PCA plot (k = 4) | Elbow curve | Products by Quantity |
 |------------------|-------------|------------------------|
